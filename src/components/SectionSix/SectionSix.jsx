@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import secondPic from "../Resources/NewImages/NewFolder6/promo_logo_iphone_tradein__7y3gtai5az66_large.png";
-import thirdPic from "../Resources/NewImages/NewFolder7/logo__dcojfwkzna2q_large (1).png";
+import thirdPic from "../Resources/NewImages/NewFolder7/logo__dcojfwkzna2q_large1.png";
 
 class SectionSix extends Component {
   render() {
