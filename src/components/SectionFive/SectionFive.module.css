@@ -1,0 +1,51 @@
+.fifth-heghlight-wrapper .right-side-wrapper .sixth_right_btn {
+  background-color: black;
+  margin-left: 10px;
+  color: rgb(17, 33, 254);
+  padding: 8px 17px;
+  border: 1px solid blue;
+  border-radius: 50px;
+}
+
+.fifth-heghlight-wrapper .left-side-wrapper .sixth_right_btn {
+  background-color: black;
+  margin-left: 1px;
+  color: rgb(17, 33, 254);
+  padding: 8px 17px;
+  border: 1px solid blue;
+  border-radius: 50px;
+}
+
+.fifth-heghlight-wrapper .left-side-wrapper .left-side-container {
+  background-image: url("./components/Resources/NewImages/NewFolder2a/promo_airpods_pro_2_avail__vkitqi3okwie_large.jpg");
+  background-color: #000;
+  padding-top: 35px;
+  margin: 0 0 10px 0;
+  background-size: cover;
+}
+
+.fifth-heghlight-wrapper .right-side-wrapper .right-side-container {
+  background-image: url("./components/Resources/NewImages/NewFolder44/promo_ai566666_large1.jpg");
+  background-color: #fbfbfd;
+  background-position: bottom;
+  padding-top: 35px;
+  margin: 0 0 10px 0;
+  background-size: cover;
+}
+
+.fifth-heghlight-wrapper .white {
+  margin-top: 300px;
+}
+.fifth-heghlight-wrapper .description-wraper {
+  max-width: 450px;
+  margin: 7px auto;
+  color: white;
+  margin-top: 20px;
+}
+
+.fifth-heghlight-wrapper .left-side-wrapper .left-side-container {
+  margin: 5px 5px 5px 10px;
+}
+.fifth-heghlight-wrapper .right-side-wrapper .right-side-container {
+  margin: 5px 10px 5px 5px;
+}
